@@ -85,13 +85,13 @@ def extract_url_pdf(input_url,folder_path=os.getcwd()):
 # In[5]:
 
 
-extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
+extract_url_pdf(input_url="https://web.classplusapp.com/store/course/581092/29111372?section=content")
 
 
 # In[6]:
 
 
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
+extract_url_pdf(input_url="https://web.classplusapp.com/store/course/581092/29111372?section=content")
 
 # https://cbic-gst.gov.in/central-tax-notifications.html
 
